@@ -88,7 +88,7 @@ nenhuma linha de código muda.
 Rscript tests/regressao.R
 ```
 
-45 verificações, sem dependência de pacote. As que de fato prendem o modelo:
+55 verificações, sem dependência de pacote. As que de fato prendem o modelo:
 
 - 200 mil sorteios por rating reproduzem a linha da matriz **célula a célula**,
   dentro de 4 desvios binomiais;

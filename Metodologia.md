@@ -420,7 +420,7 @@ Table: Dez maiores contribuições individuais para a EL
 Rscript tests/regressao.R
 ```
 
-[`tests/regressao.R`](tests/regressao.R) roda 45 verificações. As que de fato
+[`tests/regressao.R`](tests/regressao.R) roda 55 verificações. As que de fato
 prendem o modelo:
 
 | # | O que verifica | Por que importa |
