@@ -1,0 +1,13 @@
+ativo,senioridade,lgd_basileia,ref_basileia,lgd_moodys,ref_moodys
+Debenture,Senior quirografaria - corporate,0.40,CRE32.6,0.551,Sr. Unsecured
+Debenture_Subordinada,Subordinada,0.75,CRE32.7,0.680,Subordinated
+Nota_Comercial,Senior quirografaria - corporate,0.40,CRE32.6,0.551,Sr. Unsecured
+Bond,Senior quirografaria - corporate,0.40,CRE32.6,0.551,Sr. Unsecured
+Letra_Financeira,Senior quirografaria - banco,0.45,CRE32.6,0.551,Sr. Unsecured
+Letra_Financeira_Sub,Subordinada - banco,0.75,CRE32.7,0.680,Subordinated
+CRI,Garantia de imovel comercial/residencial,0.20,CRE32.11,0.426,Sr. Secured
+CRA,Garantia de recebiveis,0.20,CRE32.11,0.426,Sr. Secured
+FIDC_Senior,Cota senior - recebiveis,0.20,CRE32.11,0.426,Sr. Secured
+FIDC_Mezanino,Cota mezanino,0.60,CRE32.7 ajustado,0.609,Sr. Subordinated
+FIDC_Subordinada,Cota subordinada,0.75,CRE32.7,0.711,Jr. Subordinated
+Titulo_Publico,Senior quirografaria - soberano,0.45,CRE32.6,0.551,Sr. Unsecured

@@ -1,0 +1,14 @@
+# Carteiras e planilhas de entrada - nao versionar dado proprietario
+*.xlsx
+*.xlsm
+*.xls
+carteira_real*.csv
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Config local de ferramentas
+.claude/settings.local.json
